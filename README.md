@@ -3,5 +3,7 @@ this is an advanced note pad with encryption, web crawling and scraping, speech-
 
 The manual is the docx file named "smartext report"
 
+i have added another txt file with the libriries needed to run it and the folder with the icons used
+
 
 HAVE FUN!!

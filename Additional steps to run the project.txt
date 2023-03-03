@@ -1,0 +1,15 @@
+i re build the project in Visual Code, i had to install this libriries in order for it to work using "pip install [libriry name]" and also i added the icons folder in the project
+as long as you follow the steps of adding the libriries and the icons in the folder( i already added them) and run the smartext.py you will see the project complete and you are
+free to build it and tinker with it
+
+
+import libriries:
+pillow
+nltk
+pyAesCrypt
+opencv-python
+pytesseract
+wikipedia
+editdistance
+tensorflow
+tk (tkinter for the ui)

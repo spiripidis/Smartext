@@ -1,9 +1,8 @@
 # Smartext
-this is an advanced note pad with encryption, web crawling and scraping, speech-to-text, text-to-speach, handwritten text recognition, optical character recognition and text sentiment analysis made with python, pycharm, and various libraries that you can find in the manual documents provided
+Smartext is a notepad application that offers a range of features designed to facilitate faster and more comfortable note-taking for everyday tasks. It includes classic note-taking features such as copy-paste, cut, find and replace text, new, rename, save, save as, and load files. Additionally, it offers several novel features, including encryption and decryption of saved files, speech-to-text writing and text-to-speech audio, optical character recognition, handwriting recognition from digital images, sentiment analysis, searching for Wikipedia lemmas, finding synonyms or antonyms for chosen words, and finding definitions for chosen words. It also includes two visual themes, Light mode and Dark mode.
 
-The manual is the docx file named "smartext report"
+Smartext is written in the Python programming language using JetBrains PyCharm with the Anaconda Python 3.7.4 interpreter. It follows an Object-Oriented Programming structure and was coded using a hybrid method combining Waterfall Development, SCRUM, and Extreme Programming. It is intended to be used exclusively with Microsoft's Desktop Windows 10 Operating System.
 
-i have added another txt file with the libriries needed to run it and the folder with the icons used
+Smartext offers several notable features that set it apart from other notepad applications. Encryption and decryption of saved files using the AES specification with a user-defined password offers unparalleled security for important files while maintaining portability. Speech-to-text and text-to-speech capabilities allow for greater accessibility to note-taking, particularly for the visually impaired. Optical character recognition and handwriting recognition from digital images provide convenient conversion of images to text, and Wikipedia lemma searches, synonyms/antonyms/definitions, and sentiment analysis offer convenient lookup and analysis of terms and information.
 
-
-HAVE FUN!!
+The visual themes of Smartext are also worth mentioning, as they allow users to switch between Light and Dark modes depending on their lighting conditions. Overall, Smartext offers a comprehensive set of features that can enhance the note-taking experience for a wide range of users.
